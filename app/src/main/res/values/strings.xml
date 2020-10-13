@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yummly-Project</string>
+    <string name="fried_chicken">Fried Chicken</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="total_calories">Total Calories</string>
+    <string name="total_time">Total Time</string>
+    <string name="this_item_is_bitter">This item is bitter</string>
+    <string name="search_hint">Search Recipe</string>
+    <string name="no_results_title">No Recipes Found</string>
+    <string name="no_results_description">No recipes found for search query: %s!</string>
+    <string name="no_results_positive">OK</string>
+</resources>
